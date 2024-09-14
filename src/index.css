@@ -1,0 +1,8 @@
+body{
+    background-color: #111315;
+    background-image: url('./assets/background-coffe.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1vmax;
+}
